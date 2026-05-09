@@ -1,0 +1,8 @@
+name: MIZERO Humble Stallin
+Role: writing team goals
+On git skill learned: git workflow
+Short personal statement: 
+
+As a Mechanical Engineering student specializing in *Robotics and Autonomous Systems**, I bridge the gap between complex digital simulation and physical prototype development. With professional certifications in **SolidWorks (CSWP)** and **ANSYS**, I have successfully designed and simulated high-precision hardware, including Z-axis plasma cutter systems and thermal enclosures.
+
+Currently, I am focused on the design and fabrication of a **1600°C industrial furnace**, utilizing my skills in digital fabrication and CFD analysis to solve real-world industrial challenges. I am committed to advancing autonomous hardware through technical discipline and creative engineering.
