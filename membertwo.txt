@@ -1,0 +1,16 @@
+Name: Ikirezi Marie Faustine
+Role: Created a README.md file
+Skill: Initializing and editing a README.md file, collaborating and sharing projects online.
+Person statement:
+Working on this Git and GitHub project has greatly improved my technical and collaborative skills.
+I learned how to create and manage repositories professionally using GitHub.
+I also gained experience in creating and editing a README.md file for project documentation.
+This project helped me understand the importance of version control in software development.
+I developed confidence in using Git commands to track and manage project changes.
+Through teamwork, I improved my communication and coordination skills with other members.
+I learned how developers collaborate efficiently on shared projects using GitHub platforms.
+The project increased my problem-solving abilities and attention to detail while managing files.
+I also became familiar with professional development tools such as Git and Visual Studio Code.
+This experience motivated me to continue learning more advanced software development practices.
+I now understand the importance of organization, consistency, and teamwork in technology projects.
+Overall, this project provided me with valuable practical knowledge that will support my future career in the IT field.
